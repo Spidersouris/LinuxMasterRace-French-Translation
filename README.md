@@ -1,11 +1,5 @@
 # Pourquoi GNU / Linux? - Le guide complet
-
-## NOTE IMPORTANTE
-Cette traduction a été réalisée en 1 heure à minuit, elle doit donc contenir beaucoup d'erreur de grammaire/d'orthographes ou générallement de mauvaises traductions.
-
-Mais au moins, c'est potable ;-)
-
-C'est une traduction du wiki du [wiki de /r/linuxmasterrace](https://www.reddit.com/r/linuxmasterrace/wiki/why_linux)
+[Traduction presque fini du wiki de /r/linuxmasterrace](https://www.reddit.com/r/linuxmasterrace/wiki/why_linux)
 
 ## Vous pouvez choisir n'importe quelle version de GNU / Linux que vous voulez
 
