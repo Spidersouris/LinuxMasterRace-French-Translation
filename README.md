@@ -3,7 +3,7 @@
 
 ## Vous pouvez choisir n'importe quelle version de GNU / Linux que vous voulez
 
-Contrairement à des systèmes d'exploitation traditionnels, il n'y a pas un système d'exploitation appelé "GNU/Linux". À la place, il y a beaucoup de différents systèmes d'exploitation basés sur le noyau Linux et les paquets GNU, appelés "Distributions" ou "Distros" pour faire plus court. Cela signifie que si vous n'aimez pas la façon dont une distro fonctionne, vous pouvez choisir un autre et toujours profiter de tous les avantages de GNU/Linux. Si aucun ne vous conviennent, et - surtout - êtes suffisamment qualifiés, vous pouvez même créer votre propre distro!
+Contrairement à des systèmes d'exploitation traditionnels, il n'y a pas un système d'exploitation appelé "GNU/Linux". À la place, il y a beaucoup de différents systèmes d'exploitation basés sur le noyau Linux et les paquets GNU, appelés "Distributions" ou "Distros" pour faire plus court. Cela signifie que si vous n'aimez pas la façon dont une distro fonctionne, vous pouvez choisir une autre et toujours profiter de tous les avantages de GNU/Linux. Si aucune ne vous conviennent, et - surtout - êtes suffisamment qualifiés, vous pouvez même créer votre propre distro!
 
 ## GNU/Linux ne coûte rien à utiliser
 
@@ -73,7 +73,7 @@ Si vous souhaitez installer un logiciel sous Windows, vous devez:
 
 6. Parfois, redémarrer votre ordinateur.
 
-Ouf, ça fait beaucoup de travail simplement pour essayer quelque chose de nouveau ! Avec GNU/Linux, tout est beaucoup plus simple. Les distros GNU / Linux ont ce qu'on appelle un "gestionnaire de paquets" : chaque logiciel est contenu dans son propre "paquet". Si vous avez besoin d'un nouveau logiciel, il suffit d'ouvrir le terminal, tapez une commande, entrez votre mot de passe et appuyez sur Y.
+Ouf, ça fait beaucoup de travail simplement pour essayer quelque chose de nouveau ! Avec GNU/Linux, tout est beaucoup plus simple. Les distros GNU/Linux ont ce qu'on appelle un "gestionnaire de paquets" : chaque logiciel est contenu dans son propre "paquet". Si vous avez besoin d'un nouveau logiciel, il suffit d'ouvrir le terminal, tapez une commande, entrez votre mot de passe et appuyez sur O.
 GNU/Linux dispose également d'une mise à jour automatique des logiciels. Donc, environ une ou deux fois par semaine, votre système d'exploitation vous demandera si vous souhaitez installer des mises à jour de votre logiciel (ou vous pouvez les définir pour être automatique) et, si vous cliquez sur Oui, tous vos logiciels seront mis à jour. Mais il y a plus ! Vous avez déjà vu [ce](https://i.imgur.com/5UCpYVi.png) message avant ? Si vous êtes un utilisateur Windows, vous l'avez probablement. Si vous êtes un utilisateur de GNU/Linux, le message ressemblera plus à [celui-ci](Https://i.imgur.com/O5Q7wDm.png).
 
 Dans GNU/Linux, vous pouvez non seulement continuer à partir de là où vous vous êtes arrêté après une mise à jour, mais vous pouvez aussi utiliser vos applications alors qu'elles sont en mis à jour.
