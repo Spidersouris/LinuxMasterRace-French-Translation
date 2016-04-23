@@ -1,5 +1,5 @@
 # [/r/LinuxMasterRace](https://www.reddit.com/r/LinuxMasterRace) Wiki
-# Note: J'ai utilisé Google Traduction pour la majeur partie de ce texte, et je le corrigerai demain (si tous vas bien), en attendant, vous pouvez consulter [cette page qui est convenablement traduite](why_linux.md)
+# Note: J'ai utilisé Google Traduction pour la majeur partie de ce texte, et je le corrigerai ~~demain~~ bientôt, en attendant, vous pouvez consulter [cette page qui est convenablement traduite](why_linux.md)
 Bienvenue sur notre wiki! Nous ne disposons pas trop de contenu pour l'instant, mais nous avons ces pages pour votre plaisir de lecture:
 
 [Pourquoi GNU/Linux?](why_linux.md)
