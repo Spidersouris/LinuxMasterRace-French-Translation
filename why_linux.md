@@ -2,7 +2,7 @@
 
 ## Choisissez la version de GNU/Linux que vous voulez
 
-Contrairement aux systèmes d'exploitation traditionnels, il n'y a pas de système d'exploitation appelé « GNU/Linux ». À la place, il y a beaucoup de différents systèmes d'exploitation basés sur le noyau Linux et les paquets GNU, appelés « Distributions » ou « Distros » pour faire plus court. Cela signifie que si vous n'aimez pas la façon dont une distro fonctionne, vous pouvez en choisir une autre et toujours profiter de tous les avantages de GNU/Linux. Si aucunes ne vous conviennent et - surtout - êtes suffisamment qualifiés, vous pouvez même créer votre propre distro !
+Contrairement aux systèmes d'exploitation traditionnels, il n'y a pas de système d'exploitation appelé « GNU/Linux ». À la place, il y a beaucoup de différents systèmes d'exploitation basés sur le noyau Linux et les paquets GNU, appelés « Distributions » ou « Distros » pour faire plus court. Cela signifie que si vous n'aimez pas la façon dont une distro fonctionne, vous pouvez en choisir une autre et toujours profiter de tous les avantages de GNU/Linux. Si aucunes ne vous conviennent et - surtout - êtes suffisamment qualifié, vous pouvez même créer votre propre distro !
 
 ## GNU/Linux ne coûte rien à utiliser
 
